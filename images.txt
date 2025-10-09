@@ -1,1 +1,1 @@
-mysql:8.0.43-debian
+apacherocketmq/rocketmq-dashboard:2.0.1
