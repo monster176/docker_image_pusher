@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:2.0.1
+openlistteam/openlist:latest
